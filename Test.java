@@ -4,7 +4,7 @@ public class Test {
 		// creating a set
 		Set set = new Set();
 		String choice = "";
-		// defining a scanner
+		// defining a scanner example
 		Scanner scanner = new Scanner(System.in);
 		// looping infinitely
 		while (true) {
